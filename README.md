@@ -50,5 +50,5 @@ Development tools used
 <br/>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pasinduf&show_icons=true&theme=radical)](https://github.com/pasinduf/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=pasinduf&show_icons=true&theme=gruvbox)](https://github.com/pasinduf/github-readme-stats)
 
