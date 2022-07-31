@@ -6,9 +6,10 @@ Passionate Fullstack Developer
 - 🌱 I’m currently learning AWS Certified Developer-Associate Certification
 - 👯 I like to share the knowledge about Web Application Development
 - 📫 You can get in touch with me by email at pasindu.fernan93@gmail.com, [LinkedIn](https://www.linkedin.com/in/pasindu-fernand/)
-
 <br/>
+
 I'm experience with
+<br/>
 <p>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/>
@@ -39,7 +40,6 @@ I'm experience with
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-<br/>
 
 Development tools used
 <p>
@@ -52,3 +52,7 @@ Development tools used
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pasinduf&show_icons=true&theme=gruvbox)](https://github.com/pasinduf/github-readme-stats)
 
+Trophy Stats
+<p>
+ <img src="https://github-profile-trophy.vercel.app/?username=pasinduf"/>
+</p>
